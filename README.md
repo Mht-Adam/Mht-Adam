@@ -11,5 +11,6 @@ Je travaille sur les données qui servent à décider : enquêtes ménages, suiv
 - 🌍 Langues : arabe tchadien, français, anglais
 
 **Projet à voir :** [gis-portfolio](https://github.com/Mht-Adam/gis-portfolio), cartes thématiques du Tchad avec méthode et sources.
+Nouveau : [rapport de 12 études de cas](https://github.com/Mht-Adam/gis-portfolio/blob/main/Rapport_etudes_de_cas_Mahamat_Adam_Ibrahim.pdf) (santé, sécurité alimentaire, climat, eau, feux, déplacements), chacune avec le problème, la méthode, les chiffres et des recommandations.
 
 ✉️ mahamat.adamib@gmail.com · [LinkedIn](https://www.linkedin.com/in/mahamat-adam-ibrahim)
